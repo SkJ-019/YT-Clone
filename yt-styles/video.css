@@ -30,9 +30,6 @@
   display: grid;
   grid-template-columns: 40px 1fr 40px;
   padding-top: 10px;
-  line-height: 24px;
-  text-size-adjust: 100%;
-  -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .channel-icon{
   height: 36px;
@@ -40,20 +37,9 @@
 }
 .video-info{
   padding-left: 10px;
-  line-height: 24px;
-  text-size-adjust: 100%;
-  -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .video-title{
   font-size: 16px;
-  line-height: 20px;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  text-size-adjust: 100%;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .video-link{
   color: inherit;
@@ -64,16 +50,11 @@
   position: relative;
   align-items: center;
   padding-top: 5px;
-  line-height: 24px;
-  text-size-adjust: 100%;
-   -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .channel-link{
   font-size: 14px;
   color: #606060;
   text-decoration: inherit;
-  line-height: 18px;
-  text-size-adjust: 100%;
 }
 .verfied-icon{
   height: 14px;
@@ -83,9 +64,6 @@
   font-size: 14px;
   color: #606060;
   padding-top: 3px;
-  line-height: 18px;
-  text-size-adjust: 100%;
-   -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .dot-menu-icon{
   height: 20px;

@@ -41,11 +41,6 @@
 .video-title{
   font-size: 16px;
   text-size-adjust: 100%;
-  white-space: nowrap;
-  display: -webkit-box;
-   -webkit-line-clamp: 2; /* number of lines to show */
-   -webkit-box-orient: vertical;
-   -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .video-link{
   color: inherit;

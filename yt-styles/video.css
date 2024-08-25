@@ -63,6 +63,8 @@
   font-size: 14px;
   color: #606060;
   text-decoration: inherit;
+  line-height: 18px;
+  text-size-adjust: 100%;
 }
 .verfied-icon{
   height: 14px;
@@ -72,6 +74,8 @@
   font-size: 14px;
   color: #606060;
   padding-top: 3px;
+  line-height: 18px;
+  text-size-adjust: 100%;
 }
 .dot-menu-icon{
   height: 20px;

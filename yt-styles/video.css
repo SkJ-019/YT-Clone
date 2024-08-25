@@ -37,6 +37,9 @@
 }
 .video-info{
   padding-left: 10px;
+}
+.video-title{
+  font-size: 16px;
   line-height: 20px;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -45,9 +48,6 @@
    -webkit-line-clamp: 2; /* number of lines to show */
    -webkit-box-orient: vertical;
    -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
-}
-.video-title{
-  font-size: 16px;
 }
 .video-link{
   color: inherit;

@@ -1,0 +1,89 @@
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 40px;
+  column-gap: 16px;
+  padding-bottom: 50px;
+}
+.video-container{
+  background-color: white;
+  cursor: pointer;
+}
+.thumbnail-container{
+ position: relative;
+}
+.thumbnail{
+  width: 100%;
+  border-radius: 10px;
+}
+.video-time{
+  position: absolute;
+  font-size: 12px;
+  padding: 3px 4px;
+  bottom: 10px;
+  right: 8px;
+  background-color: rgba(0, 0, 0, 0.61);
+  color: white;
+  border-radius: 3px;
+}
+.video-details{
+  display: grid;
+  grid-template-columns: 40px 1fr 40px;
+  padding-top: 10px;
+}
+.channel-icon{
+  height: 36px;
+  border-radius: 18px;
+}
+.video-info{
+  padding-left: 10px;
+}
+.video-title{
+  font-size: 16px;
+}
+.video-link{
+  color: inherit;
+  text-decoration: inherit;
+}
+.channel{
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: 5px;
+}
+.channel-link{
+  font-size: 14px;
+  color: #606060;
+  text-decoration: inherit;
+}
+.verfied-icon{
+  height: 14px;
+  margin-left: 5px;
+}
+.video-stats{
+  font-size: 14px;
+  color: #606060;
+  padding-top: 3px;
+}
+.dot-menu-icon{
+  height: 20px;
+}
+.dot-menu-container{
+  display: flex;
+  justify-content: end;
+}
+@media (max-width: 1069px){
+  .video-grid{
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 1070px) and (max-width: 1426px){
+  .video-grid{
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media (min-width: 1427px){
+  .video-grid{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

@@ -45,10 +45,6 @@
   white-space: nowrap;
   text-overflow: ellipsis;
   text-size-adjust: 100%;
-  display: -webkit-box;
-   -webkit-line-clamp: 2; /* number of lines to show */
-   -webkit-box-orient: vertical;
-   -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .video-link{
   color: inherit;

@@ -45,6 +45,7 @@
   white-space: nowrap;
   text-overflow: ellipsis;
   text-size-adjust: 100%;
+  display: -webkit-box;
 }
 .video-link{
   color: inherit;

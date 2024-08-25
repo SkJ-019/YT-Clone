@@ -40,6 +40,11 @@
 }
 .video-title{
   font-size: 16px;
+  text-size-adjust: 100%;
+  display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+   -webkit-tab-highlight-color: rgba(0, 0, 0, 0);
 }
 .video-link{
   color: inherit;
@@ -64,6 +69,7 @@
   font-size: 14px;
   color: #606060;
   padding-top: 3px;
+  text-size-adjust: 100%;
 }
 .dot-menu-icon{
   height: 20px;

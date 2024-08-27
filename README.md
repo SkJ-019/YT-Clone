@@ -3,7 +3,6 @@ This is my first project created using HTML and CSS!
 <br>
 <b>Project Overview</b>
 <p>The YouTube Clone project aims to replicate the basic user interface of YouTube using only HTML and CSS. Working on this project helped me understand the fundamentals of web development, including layout design, responsive design, and styling.</p>
-<br>
 <b>Objectives</b>
 <ul>
   <li>To create a visually appealing and functional clone of YouTube’s homepage.</li>
@@ -11,7 +10,6 @@ This is my first project created using HTML and CSS!
   <li>To understand the structure and layout of a complex web page.</li>
   <li>To implement responsive design techniques to ensure the page looks good on various devices.</li>
 </ul>
-<br>
 <b>Features</b>
 <ol type="1">
   <li>

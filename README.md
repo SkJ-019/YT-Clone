@@ -42,4 +42,4 @@
   </li>
 </ol>
 <br>
-Author - Sk Jawd Ali
+Author - Sk Jawed Ali

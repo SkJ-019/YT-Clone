@@ -41,7 +41,5 @@
     </ul>
   </li>
 </ol>
-<br>
 <a href="https://skj-youtube-clone.pages.dev/">Check it out here!</a>
-<br>
 Author - Sk Jawed Ali

@@ -42,6 +42,6 @@
   </li>
 </ol>
 <br>
-<p>Link - <a href="https://skj-youtube-clone.pages.dev/">YT Clone</a> </p>
+<a href="https://skj-youtube-clone.pages.dev/">Check it out here!</a>
 <br>
 Author - Sk Jawed Ali
